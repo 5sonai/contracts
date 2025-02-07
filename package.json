@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@mysten/sui": "^1.19.0",
+    "@mysten/sui.js": "^0.54.1"
+  }
+}
